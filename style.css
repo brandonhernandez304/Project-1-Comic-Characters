@@ -1,0 +1,85 @@
+header {
+    align-content: center;
+    text-align: center;
+    background: none;
+    border-bottom: 1px rgba(0, 0, 0, 0.639);
+    box-shadow: -45px 10px 17px rgba(0, 0, 0, 0.639);
+}
+
+body {
+    background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(128, 0, 128, 0.584), rgba(0, 0, 255, 0.553), white);
+    background-size: cover;
+    color: white;
+
+}
+
+h1 {
+    color: black;
+    text-decoration: underline;
+    
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+
+#name {
+    font-size: large;
+}
+
+.bio {
+    display: none;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 5px black;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+.stats {
+    display: none;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 5px black;
+    margin: 50px auto;
+    padding: 50px;
+}
+
+#photo {
+    display: none;
+    width: 100%;
+    margin: 15px;
+    background-color: whitesmoke;
+    padding: 5%;
+    border-radius: 3%;
+}
+
+.photo {
+    margin: auto;
+    text-align: center;
+    
+    
+
+}
+
+.name-photo {
+    margin: auto;
+    margin-top: 0;
+    width: 35%;
+    text-align: center;
+}
+
+#name {
+    align-content: center;
+    text-align: center;
+    text-decoration: underline;
+}
+
+@media screen {
+    body {
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+}
