@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,44 +10,68 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comic Book Characters</title>
 </head>
+
 <body>
-    <h1>Comic Characters</h1>
-    <form>
-        <input type="text" placeholder="Character Name"/>
-        <input type="submit" value="Get Character Info"/>
-    </form>
+    <header>
+        <h1>Comic Characters</h1>
+        <form>
+            <input type="text" placeholder="Character Name" />
+            <input type="submit" value="Get Character Info" />
+        </form>
+    </header>
+
     <main>
-        <!-- <img src="" id="photo"> -->
-        <img src="" id="photo">
-            <h2>Hero/Villain Name:</h2>
-                <p id="name"></p>
-            <h3>Identity:</h3>
+
+        <div class="parent">
+
+            <!-- <div class="title-and-name">
+                <h2 id="name">T</h2>
+            </div> -->
+
+
+
+            <div class="bio">
+
+                <h3>IDENTITY:</h3>
                 <p id="identity"></p>
-            <h3>Race:</h3>
+                <h3>Race:</h3>
                 <p id="race"></p>
-            <h3>Height:</h3>
+                <h3>Height:</h3>
                 <p id="height"></p>
-            <h3>Weight:</h3>
+                <h3>Weight:</h3>
                 <p id="weight"></p>
-            <h3>Group Affiliation(s):</h3>
+                <h3>Group Affiliation(s):</h3>
                 <p id="group-affiliation"></p>
-                <h2>STATS</h2>
-            <h3>Intelligence:</h3>
+
+            </div>
+            <div class="name-photo">
+                <h2 id="name"></h2>
+                <img src="" id="photo">
+            </div>
+            <div class="stats">
+
+                <h2>STATS:</h2>
+
+                <h3>Intelligence:</h3>
                 <p id="intelligence"></p>
-            <h3>Strength:</h3>
+                <h3>Strength:</h3>
                 <p id="strength"></p>
-            <h3>Speed:</h3>
+                <h3>Speed:</h3>
                 <p id="speed"></p>
-            <h3>Durability:</h3>
+                <h3>Durability:</h3>
                 <p id="durability"></p>
-             <h3>Power:</h3>
+                <h3>Power:</h3>
                 <p id="power"></p>
-             <h3>Combat:</h3>
+                <h3>Combat:</h3>
                 <p id="combat"></p>
+
+            </div>
+        </div>
     </main>
 
-    <footer> 
+    <footer>
         <a href="https://superheroapi.com/index.html" target="_blank">SuperHeroAPI</a>
     </footer>
 </body>
+
 </html>
