@@ -1,4 +1,4 @@
-# **Project 1 Superheroes**
+# **Project 1 Comic Characters**
 
 ## **Welcome to my first webpage!**
 
