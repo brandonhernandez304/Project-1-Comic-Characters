@@ -10,13 +10,15 @@ body {
     background-image: radial-gradient(rgba(0, 0, 0, 0), rgba(128, 0, 128, 0.584), rgba(0, 0, 255, 0.553), white);
     background-size: cover;
     color: white;
+    font-family: 'Poiret One', cursive;
 
 }
 
 h1 {
     color: black;
     text-decoration: underline;
-    
+    font-weight: larger;
+
 }
 
 .parent {
@@ -26,28 +28,38 @@ h1 {
 
 #name {
     font-size: large;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .bio {
     display: none;
     text-align: center;
     border: 1px solid black;
-    box-shadow: 5px black;
+    box-shadow: -20px 0px 10px black;
     margin: 50px auto;
     padding: 50px;
+    background-color: whitesmoke;
+    opacity: .8;
+    color: black;
 }
 
 .stats {
     display: none;
     text-align: center;
     border: 1px solid black;
-    box-shadow: 5px black;
+    box-shadow: 20px 0px 10px black;
     margin: 50px auto;
     padding: 50px;
+    background-color: whitesmoke;
+    opacity: .8;
+    color: black;
 }
 
 #photo {
     display: none;
+    text-align: center;
+    justify-content: center;
     width: 100%;
     margin: 15px;
     background-color: whitesmoke;
@@ -56,14 +68,19 @@ h1 {
 }
 
 .photo {
-    margin: auto;
+    display: absolute;
+    align-items: flex-end;
+    align-content: center;
+    margin: 0 auto;
+    vertical-align: middle;
     text-align: center;
-    
-    
-
+    justify-content: center;
 }
 
 .name-photo {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
     margin: auto;
     margin-top: 0;
     width: 35%;
@@ -74,7 +91,32 @@ h1 {
     align-content: center;
     text-align: center;
     text-decoration: underline;
+    
 }
+
+input[type=text] {
+    text-align: center;
+    padding: 5px;
+    border: 2px solid azure;
+    color: black;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+input[type=text]:focus {
+    border-color: #333;
+}
+
+input[type=submit] {
+    text-align: center;
+    padding: 5px;
+    background-color: whitesmoke;
+    cursor: pointer;
+    border-color: azure;
+    border-radius: 5px;
+}
+
+
 
 @media screen {
     body {
