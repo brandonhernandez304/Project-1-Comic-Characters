@@ -16,7 +16,7 @@ For the webpage, I used:
 ![proj 1 no selection made](../images/Screenshot%20of%20proj%201%20selection.png)
 
 ## Getting Started
-- [My project's link](https://project-1-superheroes-6o9hsfa8v-brandonhernandez304.vercel.app/)
+- [My project's link](https://project-1-superheroes.vercel.app/)
 
 ## Plans for the Future
 ### For Future Enhancements of the Application:
