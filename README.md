@@ -13,7 +13,7 @@ For the webpage, I used:
 
 ### Screenshots:
 ![](images/Screenshot%20of%20proj%201%20no%20selection.png)
-![](images/Screenshot%20of%20proj%201%selection.png)
+![](images/Screenshot%20of%20proj%201%20selection.png)
 
 
 
