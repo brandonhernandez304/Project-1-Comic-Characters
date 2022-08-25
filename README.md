@@ -12,8 +12,8 @@ For the webpage, I used:
 - jQuery
 
 ### Screenshots:
-![](images/Screenshot%of%proj%1%no%selection.png)
-![](images/Screenshot%of%proj%1%selection.png)
+![](images/Screenshot%20of%20proj%201%20no%20selection.png)
+![](images/Screenshot%20of%20proj%201%selection.png)
 
 
 
