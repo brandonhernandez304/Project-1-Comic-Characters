@@ -12,8 +12,10 @@ For the webpage, I used:
 - jQuery
 
 ### Screenshots:
-![proj 1 no selection made]([../images/Screenshot%20of%20proj%201%20no%20selection.png](https://raw.githubusercontent.com/brandonhernandez304/Project-1-Comic-Characters/main/images/Screenshot%20of%20proj%201%20no%20selection.png])
-![proj 1 no selection made]([../images/Screenshot%20of%20proj%201%20selection.png](https://raw.githubusercontent.com/brandonhernandez304/Project-1-Comic-Characters/main/images/Screenshot%20of%20proj%201%20selection.png])
+![](images/Screenshot%of%proj%1%no%selection.png)
+![](images/Screenshot%of%proj%1%selection.png)
+
+
 
 ## Getting Started
 - [My project's link](https://project-1-superheroes.vercel.app/)
