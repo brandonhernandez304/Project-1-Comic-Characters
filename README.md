@@ -14,6 +14,11 @@ For the webpage, I used:
 ### Screenshots:
 ![](images/Screenshot%20of%20proj%201%20no%20selection.png)
 ![](images/Screenshot%20of%20proj%201%20selection.png)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ff410648fc91306034c9eb026883a735eef85ca3
 
 ## Getting Started
 - [My project's link](https://project-1-superheroes.vercel.app/)
