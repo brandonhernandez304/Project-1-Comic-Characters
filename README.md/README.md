@@ -1,8 +1,8 @@
-# **Project 1 Comic Characters**
+# **Project 1 Comic Book Characters**
 
 ## **Welcome to my first webpage!**
 
-For this webpage, I've created a character finder that will find the bio, image, and stats of specific characters a user searches for from Marvel and DC comics. The API used also has information on characters outside of Marvel and DC, so get creative with your search!
+For this webpage, I've created a comic book character finder that will find the bio, image, and stats of specific characters a user searches for from Marvel and DC comics. The API used also has information on characters outside of Marvel and DC, so get creative with your search!
 
 ### Technologies Used
 For the webpage, I used:
@@ -16,7 +16,7 @@ For the webpage, I used:
 ![proj 1 no selection made](../images/Screenshot%20of%20proj%201%20selection.png)
 
 ## Getting Started
-- [My project's link](https://project-1-superheroes.vercel.app/)
+- [My project's link](https://project-1-superheroes-6o9hsfa8v-brandonhernandez304.vercel.app/)
 
 ## Plans for the Future
 ### For Future Enhancements of the Application:
