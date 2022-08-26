@@ -10,6 +10,7 @@ For the webpage, I used:
 - JavaScript
 - CSS
 - jQuery
+- [API used](https://www.superheroapi.com/)
 
 ### Screenshots:
 ![](images/Screenshot%20of%20proj%201%20no%20selection.png)
